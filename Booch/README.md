@@ -1,3 +1,5 @@
+[![Abrir en Draw.io](https://img.shields.io/badge/Abrir%20en-Draw.io-blue)](https://app.diagrams.net/#Uhttps://raw.githubusercontent.com/scysco/OOAD/main/Booch/DDOO_U3_A1_FRSM.drawio)
+
 # 🚁 Proyecto: Metodología Booch - Sistema de Gestión de Mantenimiento de Drones
 
 Este proyecto aplica la **metodología de diseño orientado a objetos de Grady Booch** para modelar la arquitectura de un sistema de software encargado de gestionar el mantenimiento de una flota de drones agrícolas para la empresa AGROTEC.
@@ -43,9 +45,9 @@ Muestra una "fotografía" del sistema en un momento específico, ilustrando inst
 
 ### **4. Instrucciones de Uso**
 
-[![Abrir en Draw.io](https://img.shields.io/badge/Abrir%20en-Draw.io-blue)](editar)
+[![Abrir en Draw.io](https://img.shields.io/badge/Abrir%20en-Draw.io-blue)](https://app.diagrams.net/#Uhttps://raw.githubusercontent.com/scysco/OOAD/main/Booch/DDOO_U3_A1_FRSM.drawio)
 
-Puedes dar en el link de arriba o para visualizar y editar el archivo fuente de los diagramas, siga estos pasos:
+Puedes dar en el link de arriba (el mas recomendado) o seguir estos pasos:
 
 1.  Vaya al sitio web oficial de **[Draw.io (Diagrams.net)](https://app.diagrams.net/)**.
 2.  En el menú, haga clic en `Archivo` > `Abrir desde` > `Dispositivo...`.
