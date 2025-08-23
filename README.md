@@ -10,12 +10,13 @@ El propósito de este espacio es aplicar los conocimientos teóricos de diversas
 
 El repositorio está organizado en directorios, donde cada uno corresponde a una metodología o un proyecto específico de la asignatura.
 
-- **/Booch:** Contiene el análisis y los diagramas (clases y objetos) para el diseño de un sistema de gestión de mantenimiento de drones, utilizando la metodología Booch.
-- *(Próximamente más proyectos...)*
+-   **/Booch:** Contiene el análisis y los diagramas para el diseño de un sistema de gestión de mantenimiento de drones.
+-   **/toUML:** Contiene el proyecto final de la unidad 3, aplicando un conjunto de metodologías (Booch, OOSE, OMT, UML, OCL) para diseñar una aplicación de gestión de eventos.
 
 ## 🛠️ Herramientas Utilizadas
 
-- **Diagramación:** [Draw.io](https://app.diagrams.net/) (Diagrams.net)
+-   **Diagramación:** [Draw.io](https://app.diagrams.net/) (Diagrams.net)
+-   **Diseño de UI:** [Figma](https://www.figma.com/)
 
 ---
 ## 👨‍💻 Autor
