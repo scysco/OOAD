@@ -27,13 +27,13 @@ A continuación, se presentan todos los artefactos visuales generados durante el
 
 | Diagrama                                   | Metodología | Descripción                                                               |
 | ------------------------------------------ | :---------: | ------------------------------------------------------------------------- |
-| **Clases Asociadas** |    Booch    | Muestra las 3 clases clave iniciales y su asociación.                    |
+| **Clases Asociadas** |    Booch    | Muestra las 3 clases clave iniciales y su asociación.<br>[![Abrir en Draw.io](https://img.shields.io/badge/Abrir%20en-Draw.io-blue)](https://app.diagrams.net/#Uhttps://raw.githubusercontent.com/scysco/OOAD/main/toUML/DDOO_U3_EA_FRSM_Booch.drawio)                    |
 | ![Booch](image/DDOO_U3_EA_FRSM_Booch.jpg)  |             |                                                                           |
-| **Casos de Uso** |    OOSE     | Define las interacciones entre los actores (`Usuario`, `Admin`) y el sistema. |
+| **Casos de Uso** |    OOSE     | Define las interacciones entre los actores (`Usuario`, `Admin`) y el sistema.<br>[![Abrir en Draw.io](https://img.shields.io/badge/Abrir%20en-Draw.io-blue)](https://app.diagrams.net/#Uhttps://raw.githubusercontent.com/scysco/OOAD/main/toUML/DDOO_U3_EA_FRSM_OOSE.drawio) |
 | ![OOSE](image/DDOO_U3_EA_FRSM_OOSE.jpg)    |             |                                                                           |
-| **Flujo de Datos** |     OMT     | Ilustra cómo fluye la información durante el proceso de reserva.          |
+| **Flujo de Datos** |     OMT     | Ilustra cómo fluye la información durante el proceso de reserva.<br>[![Abrir en Draw.io](https://img.shields.io/badge/Abrir%20en-Draw.io-blue)](https://app.diagrams.net/#Uhttps://raw.githubusercontent.com/scysco/OOAD/main/toUML/DDOO_U3_EA_FRSM_OMT.drawio)          |
 | ![OMT](image/DDOO_U3_EA_FRSM_OMT.jpg)      |             |                                                                           |
-| **Diagrama de Clases Final** |     UML     | El modelo estructural completo del sistema, con herencia y composición.  |
+| **Diagrama de Clases Final** |     UML     | El modelo estructural completo del sistema, con herencia y composición.<br>[![Abrir en Draw.io](https://img.shields.io/badge/Abrir%20en-Draw.io-blue)](https://app.diagrams.net/#Uhttps://raw.githubusercontent.com/scysco/OOAD/main/toUML/DDOO_U3_EA_FRSM_UML.drawio)  |
 | ![UML](image/DDOO_U3_EA_FRSM_UML.jpg)      |             |                                                                           |
 
 #### **Wireframes (Diseño de Interfaz)**
@@ -52,9 +52,9 @@ Se definieron reglas formales para asegurar la integridad del modelo.
 
 | Regla                                       | Descripción                                                                 |
 | ------------------------------------------- | --------------------------------------------------------------------------- |
-| **Invariante de Clase** | Asegura que la capacidad del lugar sea suficiente para los asistentes.      |
+| **Invariante de Clase** | Asegura que la capacidad del lugar sea suficiente para los asistentes.<br>[![Abrir en Draw.io](https://img.shields.io/badge/Abrir%20en-Draw.io-blue)](https://app.diagrams.net/#Uhttps://raw.githubusercontent.com/scysco/OOAD/main/toUML/DDOO_U3_EA_FRSM_OCL_I.drawio)      |
 | ![OCL 1](image/DDOO_U3_EA_FRSM_OCL_I.jpg)    |                                                                             |
-| **Consistencia (Caso de Uso -> Clase)** | Vincula la acción del actor en el Caso de Uso con un método en la Clase.    |
+| **Consistencia (Caso de Uso -> Clase)** | Vincula la acción del actor en el Caso de Uso con un método en la Clase.<br>[![Abrir en Draw.io](https://img.shields.io/badge/Abrir%20en-Draw.io-blue)](https://app.diagrams.net/#Uhttps://raw.githubusercontent.com/scysco/OOAD/main/toUML/DDOO_U3_EA_FRSM_OCL_II.drawio)    |
 | ![OCL 2](image/DDOO_U3_EA_FRSM_OCL_II.jpg)   |                                                                             |
 
 ### **3. Archivos y Herramientas**
